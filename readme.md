@@ -41,5 +41,5 @@ This project is an AI-driven personalized learning platform designed to help you
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AbhijeetKr09/EY_techathon_web.git
-   cd EY_techathon_web
+   git clone https://github.com/ManhviYadav/CareerGuide-SIH-2K24.git
+   cd CareerGuide-SIH-2K24
