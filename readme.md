@@ -37,6 +37,10 @@ This project is an AI-driven personalized learning platform designed to help you
 - Cleans and preprocesses text data to retain important keywords.
 - Extracts key phrases to assist in quiz generation and learning path refinement.
 
+## Frontend
+Hosted over vercel for preview
+visit link - [Career-Guide](https://career-guide-sih-2-k24-dirr.vercel.app/)
+
 ## Installation
 
 1. Clone the repository:
